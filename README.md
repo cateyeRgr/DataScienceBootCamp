@@ -1,4 +1,11 @@
 # DataScienceBootCamp
+Certificate: [datascience2023_RecordOfAchievement.pdf](https://github.com/user-attachments/files/20413295/datascience2023_RecordOfAchievement.pdf)
+
+Intro to data science and visualization
+EDA and statistical analysis
+Data cleaning and preprocessing
+Machine learning
+
 My solutions to the problems presented @ Data Science Boot Camp @ Open HPI 2023
 
 Technologies used:
