@@ -1,5 +1,5 @@
 # DataScienceBootCamp
-Certificate: [datascience2023_RecordOfAchievement.pdf](https://github.com/user-attachments/files/20413295/datascience2023_RecordOfAchievement.pdf)
+My certificate of achievement: [datascience2023_RecordOfAchievement.pdf](https://github.com/user-attachments/files/20413295/datascience2023_RecordOfAchievement.pdf)
 
 Intro to data science and visualization
 EDA and statistical analysis
